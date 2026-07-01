@@ -1,0 +1,1 @@
+function abrir(){document.querySelector('button').style.display='none';document.getElementById('foto').style.display='block';document.getElementById('texto').classList.remove('hide');}

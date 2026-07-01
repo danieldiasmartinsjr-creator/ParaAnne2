@@ -1,0 +1,5 @@
+body{margin:0;font-family:Georgia,serif;background:linear-gradient(180deg,#2b1055,#d88f63);display:flex;justify-content:center;align-items:center;min-height:100vh;color:#fff}
+.card{max-width:760px;width:92%;background:rgba(255,255,255,.08);padding:30px;border-radius:20px;text-align:center}
+button{padding:14px 28px;border:none;border-radius:30px;cursor:pointer}
+img{display:none;width:100%;border-radius:16px;margin-top:20px}
+.hide{display:none}.inf{font-size:48px;margin-top:20px}
